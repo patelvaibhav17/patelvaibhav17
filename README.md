@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 ### 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=patelvaibhav17&show_icons=true&theme=dark&hide_border=false)
+![](https://github-readme-stats.shion.dev/api?username=patelvaibhav17&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=patelvaibhav17&theme=dark&hide_border=false)
 
