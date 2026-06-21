@@ -14,7 +14,7 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=patelvaibhav17&theme=dark&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=patelvaibhav17&layout=compact&theme=dark&hide_border=false)
+![](https://github-readme-stats.shion.dev/api?username=patelvaibhav17&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=patelvaibhav17&theme=radical&no-frame=false&no-bg=false&margin-w=4)
