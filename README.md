@@ -1,5 +1,112 @@
-# 💫 About Me:
-🔭 I’m currently working on Full-Stack MERN Applications, Blockchain Solutions, and Web Development Projects<br>👯 I’m looking to collaborate on Open Source Projects, MERN Stack Applications, and Blockchain/Web3 Solutions<br>🤝 I’m looking for help with Advanced System Design, Cloud Infrastructure, and DevOps<br>🌱 I’m currently learning Docker, Cloud Computing, DevOps, and Scalable Backend Development<br>💬 Ask me about MERN Stack, PHP, Python, Java, SQL, REST APIs, Blockchain, and Web Development<br>⚡ Fun fact: I contributed to the official ADIT College Website serving 5,000+ students and enjoy building real-world software solutions<br>🎓 B.Tech Computer Engineering Student (2023–2027) at A.D. Patel Institute of Technology (ADIT)<br>📈 CGPA: 8.71<br>💼 Former MERN Stack Intern @ BrainyBeam Technologies<br>🌐 Former Web Development Intern @ InternPe<br>🚀 Passionate about Backend Development, Full-Stack Engineering, Blockchain, Web3, and Cloud Technologies<br>
+# Hi 👋, I'm Vaibhav Patel
+
+### Full-Stack Developer | MERN Stack | Backend Engineering | Blockchain Enthusiast
+
+🎓 Final-Year B.Tech Computer Engineering Student at A.D. Patel Institute of Technology (ADIT), CVM University<br>
+📊 CGPA: **8.71**<br>
+📍 Gujarat, India
+
+---
+
+## 💫 About Me:
+
+* 💻 Full-Stack Developer with hands-on experience in **MERN Stack, PHP, Java, and modern web technologies**.
+* 🎓 Final-Year **B.Tech Computer Engineering** student at **A.D. Patel Institute of Technology (ADIT), CVM University** with a **CGPA of 8.71**.
+* 🏢 Former **MERN Stack Intern at BrainyBeam Technologies Pvt. Ltd.**
+* 🌐 Former **Web Development Intern at InternPe**.
+* 🏫 Contributed to the official **ADIT College Website**, serving **5,000+ students** using PHP and MySQL.
+* 🔗 Building **Farm2Formula**, a blockchain-powered herbal traceability platform with geo-tagging and supply-chain transparency.
+* 🚀 Developed full-stack applications including ERP systems, authentication platforms, and secure web solutions.
+* ☁️ Currently exploring **Docker, DevOps, Cloud Computing, System Design, and Scalable Backend Architecture**.
+* 🏆 Participated in **MU Commit 1.0 Hackathon**, **Smart India Hackathon (Internal Round)**, and **Generative AI Game Hackathon**.
+* 🎯 Interested in **Backend Development, Full-Stack Engineering, Blockchain/Web3, Cloud Infrastructure, and Open Source Development**.
+
+---
+
+## 💼 Experience
+
+### MERN Stack Intern | BrainyBeam Technologies
+
+**May 2026 – Jun 2026**
+
+* Developed authentication modules using React, Node.js, Express.js, and MongoDB.
+* Implemented registration and login workflows with form validation.
+* Built dashboard layouts, navigation systems, and profile management interfaces.
+* Worked on production-grade MERN application architecture.
+
+### Web Development Intern | InternPe
+
+**Jan 2026 – Feb 2026**
+
+* Developed responsive web applications using HTML, CSS, and JavaScript.
+* Delivered multiple frontend projects within strict deadlines.
+* Collaborated on backend integration and professional development workflows.
+
+---
+
+## 🛠️ Featured Projects
+
+### 🌐 ADIT College Website (adit.ac.in)
+
+**PHP • MySQL • JavaScript**
+
+* Contributed to the official college website serving 5,000+ students.
+* Built dynamic administration modules for department management.
+* Enhanced content management workflows for academic departments.
+
+### 🌿 Farm2Formula – Blockchain Herbal Traceability
+
+**React Native • Node.js • Blockchain**
+
+* Blockchain-powered herbal supply chain tracking solution.
+* Implemented geo-tagging and immutable provenance records.
+* Focused on transparency and authenticity verification.
+
+### 🎓 College ERP Management System
+
+**PHP • MySQL • JavaScript**
+
+* Role-based ERP system for Students, Faculty, and Administrators.
+* Secure authentication, session management, and access control.
+* Designed relational database architecture and authorization logic.
+
+### 🔐 Secure Password Manager
+
+**Python • AES Encryption**
+
+* Developed during MU Commit 1.0 Hackathon.
+* AES-encrypted credential storage.
+* Secure vault export/import and password hashing.
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+C • C++ • Java • Python • PHP • JavaScript • SQL
+
+### Frontend
+
+React.js • HTML5 • CSS3 • Bootstrap • Tailwind CSS
+
+### Backend
+
+Node.js • Express.js • REST APIs • PHP
+
+### Databases
+
+MongoDB • MySQL • PostgreSQL
+
+### Tools & Platforms
+
+Git • GitHub • Docker • Postman • VS Code • AWS • Azure • Firebase
+
+### Areas of Interest
+
+Backend Development • Full-Stack Engineering • Blockchain & Web3 • Cloud Computing • DevOps
+
+---
 
 
 ## 🌐 Socials:
@@ -12,16 +119,8 @@
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=patelvaibhav17&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=patelvaibhav17&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=patelvaibhav17&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=patelvaibhav17&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
