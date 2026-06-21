@@ -80,28 +80,6 @@
 
 ---
 
-## 💻 Tech Stack
-
-### Languages
-
-C • C++ • Java • Python • PHP • JavaScript • SQL
-
-### Frontend
-
-React.js • HTML5 • CSS3 • Bootstrap • Tailwind CSS
-
-### Backend
-
-Node.js • Express.js • REST APIs • PHP
-
-### Databases
-
-MongoDB • MySQL • PostgreSQL
-
-### Tools & Platforms
-
-Git • GitHub • Docker • Postman • VS Code • AWS • Azure • Firebase
-
 ### Areas of Interest
 
 Backend Development • Full-Stack Engineering • Blockchain & Web3 • Cloud Computing • DevOps
